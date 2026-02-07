@@ -1,0 +1,15 @@
+{
+  "product": "DDR4 16Gb (2Gx8) 3200",
+  "source": "DRAMeXchange",
+  "logs": [
+    {
+      "date": "2026-02-07",
+      "daily_high": 92.00,
+      "daily_low": 26.00,
+      "session_high": 92.00,
+      "session_low": 26.00,
+      "session_average": 76.966,
+      "session_change": "0.02%"
+    }
+  ]
+}
