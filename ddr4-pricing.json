@@ -823,21 +823,30 @@
     },
     {
       "date": "2026-05-18",
-      "daily_high": 70.0,
-      "daily_low": 33.0,
-      "session_high": 70.0,
-      "session_low": 33.0,
+      "daily_high": 70,
+      "daily_low": 33,
+      "session_high": 70,
+      "session_low": 33,
       "session_average": 58.238,
       "session_change": "0.00%"
     },
     {
       "date": "2026-05-19",
-      "daily_high": 70.0,
+      "daily_high": 70,
       "daily_low": 33.5,
-      "session_high": 70.0,
+      "session_high": 70,
       "session_low": 33.5,
       "session_average": 58.357,
       "session_change": "0.20%"
+    },
+    {
+      "date": "2026-05-20",
+      "daily_high": 70,
+      "daily_low": 33.5,
+      "session_high": 70,
+      "session_low": 33.5,
+      "session_average": 58.905,
+      "session_change": "0.94%"
     }
   ]
 }
