@@ -856,6 +856,15 @@
       "session_low": 33.5,
       "session_average": 59.429,
       "session_change": "0.89%"
+    },
+    {
+      "date": "2026-05-22",
+      "daily_high": 70.5,
+      "daily_low": 33.8,
+      "session_high": 70.5,
+      "session_low": 33.8,
+      "session_average": 60.143,
+      "session_change": "1.20%"
     }
   ]
 }
