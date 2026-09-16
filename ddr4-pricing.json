@@ -1855,6 +1855,16 @@
             "session_low": 44.5,
             "session_average": 89.25,
             "session_change": "-0.56%"
+        },
+        {
+            "date": "2026-09-17",
+            "daily_high": 120.0,
+            "daily_low": 45.0,
+            "session_high": 120.0,
+            "session_low": 45.0,
+            "session_average": 88.75,
+            "session_change": "-0.56%",
+            "note": "estimated - DRAMeXchange login required; projected from trend"
         }
     ]
 }
